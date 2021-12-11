@@ -1,0 +1,41 @@
+[
+    {
+        "Author": "haplo, daemitus, Loskh, wozaiha, KatawaJoJo",
+        "Name": "JobIcons",
+        "Punchline": null,
+        "Description": "Names are dumb, use icons instead.",
+        "InternalName": "JobIcons",
+        "AssemblyVersion": "5.0.0.0",
+        "RepoUrl": "https://github.com/haplo064/JobIcons",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 5,
+        "DownloadCount": 0,
+        "LastUpdate": "0",
+        "ImageUrls": [],
+        "DownloadLinkInstall": "https://github.com/katawajojo/DalamudPlugins/raw/main/JobIcons/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/katawajojo/DalamudPlugins/raw/main/JobIcons/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/katawajojo/DalamudPlugins/raw/main/JobIcons/latest.zip"
+    },
+    {
+        "Author": "BiscuitUmU, Kazumi, KatawaJoJo",
+        "Name": "FantasyPlayer",
+        "Punchline": null,
+        "Description": "Control Spotify playback from within FFX|V\nUse the button below to open settings or use the '/pfp settings' command.",
+        "InternalName": "FantasyPlayer.Dalamud",
+        "AssemblyVersion": "2.9.0.1",
+        "IsTestingExclusive": false,
+        "RepoUrl": "https://github.com/Dormanil/FantasyPlayer",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 5,
+        "DownloadCount": 0,
+        "LastUpdate": "0",
+        "ImageUrls": [],
+        "DownloadLinkInstall": "https://github.com/katawajojo/DalamudPlugins/raw/main/FantasyPlayer/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/katawajojo/DalamudPlugins/raw/main/FantasyPlayer/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/katawajojo/DalamudPlugins/raw/main/FantasyPlayer/latest.zip"
+    }
+]
