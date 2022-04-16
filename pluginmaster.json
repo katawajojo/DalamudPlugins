@@ -5,7 +5,7 @@
         "Punchline": null,
         "Description": "Names are dumb, use icons instead.",
         "InternalName": "JobIcons",
-        "AssemblyVersion": "5.0.0.0",
+        "AssemblyVersion": "6.0.0.0",
         "RepoUrl": "https://github.com/haplo064/JobIcons",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 6,
