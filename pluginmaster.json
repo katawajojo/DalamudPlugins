@@ -95,5 +95,26 @@
     ],
       "IconUrl": "https://raw.githubusercontent.com/markjsosnowski/OceanFishin/master/icon.png",
 
+  },
+  {
+      "Author": "Sl0nderman",
+      "Name": "Blue Mage Helper",
+      "InternalName": "BlueMageHelper",
+      "AssemblyVersion": "1.1.0.1",
+      "Description": "Adds monster names and coordinates to the \"Where to Learn\" section of your blue mage spellbook.",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com/markjsosnowski/BlueMageHelper",
+      "DalamudApiLevel": 6,
+      "LoadPriority": 0,
+      "IconUrl": "https://raw.githubusercontent.com/markjsosnowski/BlueMageHelper/master/icon.png",
+      "Punchline": "Helps you fill our your Blue Mage Spellbook",
+      "DownloadLinkInstall": "https://github.com/katawajojo/DalamudPlugins/raw/main/BlueMageHelper/latest.zip",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadLinkTesting": "https://github.com/katawajojo/DalamudPlugins/raw/main/BlueMageHelper/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/katawajojo/DalamudPlugins/raw/main/BlueMageHelper/latest.zip",
+      "ImageUrls": [
+        "https://raw.githubusercontent.com/markjsosnowski/OceanFishin/master/preview1.png"
+    ]
   }
 ]
