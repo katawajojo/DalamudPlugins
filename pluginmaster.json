@@ -72,5 +72,28 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/katawajojo/DalamudPlugins/raw/main/Dalamud.RichPresence/latest.zip",
         "DownloadLinkUpdate": "https://github.com/katawajojo/DalamudPlugins/raw/main/Dalamud.RichPresence/latest.zip"
-    }
+    },
+    {
+      "Author": "Sl0nderman",
+      "Name": "Ocean Fishin'",
+      "Punchline": "Suggests bait for ocean fishing.",
+      "Description": "Automatically recommends bait to use based on your ocean fishing route. \nYou'll get suggestions for spectral fish, fisher's intuition buff, and missions.",
+      "InternalName": "OceanFishin",
+      "AssemblyVersion": "2.2.0.1",
+      "RepoUrl": "https://github.com/markjsosnowski/OceanFishin",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 6,
+      "DownloadCount": 0,
+      "LastUpdate": 0,
+      "DownloadLinkInstall": "https://github.com/katawajojo/DalamudPlugins/raw/main/OceanFishin/latest.zip",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadLinkTesting": "https://github.com/katawajojo/DalamudPlugins/raw/main/OceanFishin/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/katawajojo/DalamudPlugins/raw/main/OceanFishin/latest.zip",
+      "ImageUrls": [
+        "https://raw.githubusercontent.com/markjsosnowski/OceanFishin/master/preview1.png"
+    ],
+      "IconUrl": "https://raw.githubusercontent.com/markjsosnowski/OceanFishin/master/icon.png",
+
+  }
 ]
