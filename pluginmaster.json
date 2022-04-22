@@ -116,5 +116,22 @@
       "ImageUrls": [
         "https://raw.githubusercontent.com/markjsosnowski/BlueMageHelper/master/preview1.png"
     ]
+  },
+  {
+      "Author": "cassandra308",
+      "Name": "Where am I again?",
+      "InternalName": "WhereAmIAgain",
+      "AssemblyVersion": "0.0.0.9",
+      "Description": "Shows what zone/region/territory you are in up in the corner next to the server and time info. Open config with /waia.",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com/cassandra308/WhereAmIAgain",
+      "DownloadLinkInstall": "https://github.com/katawajojo/DalamudPlugins/raw/main/WhereAmIAgain/latest.zip",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadLinkTesting": "https://github.com/katawajojo/DalamudPlugins/raw/main/WhereAmIAgain/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/katawajojo/DalamudPlugins/raw/main/WhereAmIAgain/latest.zip",
+      "DalamudApiLevel": 6,
+      "LoadPriority": 0,
+      "Punchline": "Shows what zone/region/territory you are in next to the server info."
   }
 ]
