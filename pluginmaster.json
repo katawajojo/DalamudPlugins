@@ -10,7 +10,7 @@
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
         "DownloadCount": 0,
-        "LastUpdate": "0",
+        "LastUpdate": "1675094699",
         "ImageUrls": [],
         "DownloadLinkInstall": "https://github.com/katawajojo/DalamudPlugins/raw/main/JobIcons/latest.zip",
         "IsHide": false,
@@ -28,7 +28,7 @@
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
         "DownloadCount": 0,
-        "LastUpdate": "0",
+        "LastUpdate": "1675094699",
         "ImageUrls": [],
         "DownloadLinkInstall": "https://github.com/katawajojo/DalamudPlugins/raw/main/Dalamud.LoadingImage/latest.zip",
         "IsHide": false,
@@ -47,7 +47,7 @@
       "ApplicableVersion": "any",
       "DalamudApiLevel": 8,
       "DownloadCount": 0,
-      "LastUpdate": 0,
+      "LastUpdate": "1675094699",
       "DownloadLinkInstall": "https://github.com/katawajojo/DalamudPlugins/raw/main/OceanFishin/latest.zip",
       "IsHide": false,
       "IsTestingExclusive": false,
@@ -74,6 +74,7 @@
       "DownloadLinkInstall": "https://github.com/katawajojo/DalamudPlugins/raw/main/BlueMageHelper/latest.zip",
       "IsHide": false,
       "IsTestingExclusive": false,
+      "LastUpdate": "1675094699",
       "DownloadLinkTesting": "https://github.com/katawajojo/DalamudPlugins/raw/main/BlueMageHelper/latest.zip",
       "DownloadLinkUpdate": "https://github.com/katawajojo/DalamudPlugins/raw/main/BlueMageHelper/latest.zip",
       "ImageUrls": [
@@ -90,6 +91,7 @@
       "DownloadLinkInstall": "https://github.com/katawajojo/DalamudPlugins/raw/main/FantasyPlayer.Dalamud/latest.zip",
       "IsHide": false,
       "IsTestingExclusive": false,
+      "LastUpdate": "1675094699",
       "DownloadLinkTesting": "https://github.com/katawajojo/DalamudPlugins/raw/main/FantasyPlayer.Dalamud/latest.zip",
       "DownloadLinkUpdate": "https://github.com/katawajojo/DalamudPlugins/raw/main/FantasyPlayer.Dalamud/latest.zip",
       "DalamudApiLevel": 8,
@@ -110,6 +112,7 @@
       "DownloadLinkUpdate": "https://github.com/katawajojo/DalamudPlugins/raw/main/LootMaster/latest.zip",
       "DalamudApiLevel": 8,
       "LoadPriority": 0,
+      "LastUpdate": "1675094699",
       "Punchline": "Dungeon Loot Made Lazy."
   }
 ]
